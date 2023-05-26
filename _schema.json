@@ -22,7 +22,7 @@
                 "prompt": {
                   "type": "string"
                 },
-                "contibutor": {
+                "contributor": {
                   "type": "string"
                 },
                 "reference": {
@@ -51,7 +51,7 @@
                   }
                 }
               },
-              "required": ["name", "prompt", "contibutor"]
+              "required": ["name", "prompt", "contributor"]
             }
           }
         },
